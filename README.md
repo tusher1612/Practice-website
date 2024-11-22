@@ -18,12 +18,12 @@ This is a simple practice project designed to hone skills in HTML, CSS, and Java
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone <repository-url>  
+   git clone https://github.com/tusher1612/Practice-website.git
    ```  
 
 2. Navigate to the project directory:  
    ```bash  
-   cd practice-website  
+   cd Practice-website
    ```  
 
 3. Open the `index.html` file in your browser to explore the website.  
